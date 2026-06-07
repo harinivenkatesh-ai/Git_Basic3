@@ -1,15 +1,23 @@
-# 26T2-git-github-workshop
+# Git_Basic3
 
-Thank you for attending the Git & GitHub Workshop.
+Advanced Git and GitHub workshop repository.
 
-This repository contains:
-- Slides Link
-- Recording Link
-- Assignment links
+## Topics Covered
 
-We hope this workshop helps you learn version control and collaboration.
+* Forking repositories
+* Pull requests
+* Issues
+* GitHub Wiki
+* Collaborative development workflows
 
-Thank you for **joing** the workshop.
+## Purpose
 
-* There is a typo in the above line. Create an issue to correct this typo
-* Also, contribute to this by adding your file as per the task
+Used to practice contribution workflows commonly used in open-source projects.
+
+## Tools Used
+
+* Git
+* GitHub
+* Pull Requests
+* Issues
+* GitHub Wiki
